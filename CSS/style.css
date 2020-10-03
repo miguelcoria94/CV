@@ -1,11 +1,15 @@
 body {
-    background-color: #fddb3a;
+    background-color: #fbd46d;
 }
 
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #f6f4e6;
+    border-color: #f4f6ff;
     border-width: 5px;
     width: 5%
+}
+
+h1 h3 {
+    color: #f4f6ff;
 }
